@@ -1,7 +1,7 @@
 // src/components/Footer.js
 import React from 'react';
 
-import peachFuzzHeart from '../images/peach-fuzz-heart.png'; // Adjust the path if necessary
+import peachFuzzHeart from '../images/peach-fuzz-heart.png';
 
 function Footer() {
   return (
