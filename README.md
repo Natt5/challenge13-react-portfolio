@@ -53,7 +53,9 @@ The project is structured around React components, with separate components for 
 
 ## Deployment
 
-The site is deployed using Netlify.
+The site is deployed using [Netlify](https://main--reactportfolionatt5.netlify.app).
+
+![Screenshot of my portfolio](./src/images/react-portfolio-screen.png)
 
 ## GitHub Repository
 
