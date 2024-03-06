@@ -1,8 +1,8 @@
-// src/components/Projects.js
+
 import React from 'react';
 import projectsData from '../projects.json';
 
-function Projects() {
+function ProjectGallery() {
   return (
     <div className="container" id="projects">
       <h2 className="text-center mb-4">Projects</h2>

@@ -1,21 +1,6 @@
-// // src/components/Home.js
-// import React from 'react';
 
-// function Home() {
-//   return (
-//     <div className="home">
-//       <h1>Natt5</h1>
-//       <img src="./images/portrait.png" alt="Your Headshot" />
-//       <p>Natt5 front end web developer.</p>
-//     </div>
-//   );
-// }
-
-// export default Home;
-
-// src/components/Home.js
 import React from 'react';
-import portraitImage from '../images/portrait.png'; // Ensure this path is correct
+import portraitImage from '../images/portrait.png';
 
 function Home() {
   return (

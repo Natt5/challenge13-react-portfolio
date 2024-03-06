@@ -28,9 +28,10 @@ function Header() {
             <li className="nav-item">
               <Link className="nav-link" to="/Contact">Contact Me</Link>
             </li>
-            {/* Update the path to your resume */}
+        
             <li className="nav-item">
-            <a href={`${process.env.PUBLIC_URL}/NBResume.pdf`} target="_blank" rel="noopener noreferrer" className="nav-link">Resume</a>
+            
+            <a href="/NBResume.pdf" target="_blank" rel="noopener noreferrer" className="nav-link">Resume</a>
           </li>
           </ul>
         </div>

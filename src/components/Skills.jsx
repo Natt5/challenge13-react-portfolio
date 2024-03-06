@@ -39,7 +39,7 @@ function Skills() {
       <div className="progress mb-3">
         <div className="progress-bar" role="progressbar" style={{width: "60%", backgroundColor: "rgb(255, 190, 152)", color: "rgba(0, 0, 0, 0.6)"}} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
       </div>
-      {/* Add more skills as needed */}
+      {/* More skills here */}
     </div>
   );
 }
