@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "A Code Refactor Project",
+      "description": "A code refactor project for the Horiseon Social Solution Services to improve accessibility and SEO.",
+      "deployedLink": "https://natt5.github.io/Challenge1_CodeRefactor_Accessibility/",
+      "githubLink": "https://github.com/Natt5/Challenge1_CodeRefactor_Accessibility",
+      "image": "/project images/horiseon.png"
+    },
+    {
+      "id": 2,
+      "title": "HTML & CSS Web Dev Portfolio",
+      "description": "Personal portfolio using HTML and CSS.",
+      "deployedLink": "https://natt5.github.io/challenge2portfolio/",
+      "githubLink": "https://github.com/Natt5/challenge2portfolio",
+      "image": "./project images/challenge2.png"
+    },
+    {
+      "id": 3,
+      "title": "Bootstrap Web Dev Portfolio",
+      "description": "Redesigned portfolio showcasing my skills and projects in web development, featuring a clean, responsive design implemented with Bootstrap.",
+      "deployedLink": "https://natt5.github.io/Bootstrap-Portfolio/",
+      "githubLink": "https://github.com/Natt5/Bootstrap-Portfolio",
+      "image": "./project images/chalenge3.png"
+    },
+    {
+      "id": 4,
+      "title": "Console-Finances",
+      "description": "A JavaScript-based financial analysis tool for calculating key metrics from financial data, including total months, net profit/loss, average changes, and extreme variances.",
+      "deployedLink": "https://natt5.github.io/Console-Finances/",
+      "githubLink": "https://github.com/Natt5/Console-Finances",
+      "image": "./project images/console-finances.png"
+    },
+    {
+      "id": 5,
+      "title": "Password Generator JS",
+      "description": "Interactive Password Generator: A user-friendly web tool for creating secure, custom passwords. Choose your password length and character types, including uppercase, lowercase, numeric, and special characters, for robust security.",
+      "deployedLink": "https://natt5.github.io/challenge5-password-generator-js/",
+      "githubLink": "https://github.com/Natt5/challenge5-password-generator-js",
+      "image": "./project images/modified-password-generator.png"
+    },
+    {
+      "id": 6,
+      "title": "Web APIs Code Quiz",
+      "description": "This is an interactive coding test platform that emphasizes JavaScript fundamentals. It features an intuitive start button to launch the timed test. The multiple-choice questions are dynamically presented one after the other. Responses are timed, and the quiz concludes when all questions are answered or when the allotted time expires.",
+      "deployedLink": "https://natt5.github.io/challenge6-web-APIs-code-quiz/index.html",
+      "githubLink": "https://github.com/Natt5/challenge6-web-APIs-code-quiz",
+      "image": "./project images/webapiquiz.png"
+    },
+    {
+      "id": 7,
+      "title": "Work Day Scheduler Third-Party APIs JS",
+      "description": "Efficiently manage your workday with this interactive scheduler. Powered by jQuery and Day.js, it features colour-coded time slots and local storage integration for tracking daily tasks and events.",
+      "deployedLink": "https://natt5.github.io/challenge7-work-day-scheduler/",
+      "githubLink": "https://github.com/Natt5/challenge7-work-day-scheduler",
+      "image": "./project images/Challenge7screenshot.png"
+    },
+    {
+      "id": 8,
+      "title": "Server-Side APIs: Weather Dashboard",
+      "description": "A dynamic Weather Dashboard that provides current and 5-day weather forecasts for cities around the globe, helping travelers plan their trips with ease. Access live updates, search history, and responsive design for an optimal user experience.",
+      "deployedLink": "https://natt5.github.io/challenge8-server-api-weather-dashboard/",
+      "githubLink": "https://github.com/Natt5/challenge8-server-api-weather-dashboard",
+      "image": "./project images/weather-dashboard-screen.png"
+    },
+    {
+      "id": 9,
+      "title": "Professional README Generator",
+      "description": "A command-line tool to quickly create README.md files that look professional. Perfect for developers that want to improve the documentation for their GitHub repositories without having to spend more time formatting and creating standard sections.",
+      "deployedLink": "",
+      "githubLink": "https://github.com/Natt5/challenge11-professional-README-generator",
+      "image": "./project images/sample-readme-screenshot.png"
+    },
+    {
+      "id": 10,
+      "title": "Team Profile Generator",
+      "description": "A Node.js command-line tool called Team Profile Generator accepts user inputs to dynamically create a presentable HTML webpage that summarises the members of an IT engineering project.",
+      "deployedLink": "",
+      "githubLink": "https://github.com/Natt5/challenge12-team-profile-generator",
+      "image": "./project images/team-profile-generatorapp.png"
+    }
+  
+  ]
+  
